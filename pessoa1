@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="list.css">
+    <meta charset="UTF-8"/>
+    <title>Pessoa-1</title>	
+</head>
+<body>
+	<div>
+	
+	</div>
+ nome
+ telefone
+ e-mail
+ endereço
+</body>
+</html>
